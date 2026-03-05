@@ -1,45 +1,123 @@
-# About Me
+<h1 align="center">DevOps Engineering Portfolio</h1>
 
-Hello, I'm **Ketan Ayatti**, with a strong interest in cloud infrastructure, automation, and deployment engineering.
+<p align="center">
+<strong>Ketan Ayatti</strong><br>
+DevOps Engineer | AWS • Docker • Linux • Jenkins | Cloud & Deployment Automation
+</p>
 
-My focus is on designing and building **real-world DevOps systems** that demonstrate modern infrastructure practices.
-
----
-
-# DevOps Focus Areas
-
-- CI/CD Pipeline Engineering
-- Linux Server Administration
-- Containerization
-- Infrastructure Automation
-- Cloud Deployment
-- Platform Engineering
+<p align="center">
+Building scalable infrastructure, automated deployments, and production-ready DevOps systems.
+</p>
 
 ---
 
-# DevOps Philosophy
+# 👨‍💻 Portfolio Navigation
 
-I believe DevOps is about **automation, reliability, and scalable infrastructure**.
+This repository acts as a **central hub for my DevOps engineering work**.
 
-My goal is to build systems that:
-
-- Deploy reliably
-- Scale efficiently
-- Recover automatically
-- Maintain production stability
-
----
-
-# Career Goal
-
-My long-term goal is to become a **DevOps / Platform Engineer capable of designing large-scale cloud infrastructure systems and deployment platforms**.
+| Section | Description |
+|------|------|
+| [About Me](docs/about-me.md) | Background, goals, and DevOps journey |
+| [Projects](docs/projects.md) | DevOps platforms and infrastructure systems |
+| [Internship Experience](docs/internship.md) | DevOps internship at Ionidea |
 
 ---
 
-# Current Role
+# 🚀 Featured DevOps Projects
 
-**DevOps Intern — Ionidea**
+## Communiatec  
+DevOps-Driven Full Stack Communication Platform with Automated CI/CD
 
+Repository  
+https://github.com/ketanayatti/communiatec-devops-platform
+
+Highlights
+
+- Jenkins CI/CD pipeline
+- Docker container deployment
+- GitHub source integration
+- Docker Hub container registry
+- Linux production server deployment
+
+---
+
+## AI Mock Interview Platform  
+AI Application with DevOps CI/CD Pipeline
+
+Repository  
+https://github.com/ketanayatti/ai-mock-interview
+
+Highlights
+
+- Multi-branch CI/CD pipeline
+- Docker containerization
+- Docker Compose orchestration
+- Apache web server configuration
+- MongoDB container database
+- Automated staging and production deployments
+
+---
+
+# 🧠 Upcoming DevOps Projects
+
+These projects are currently under development and will demonstrate advanced DevOps concepts.
+
+| Project | Focus |
+|------|------|
+| Autonomous Self-Healing Deployment Platform | Automated failure recovery & zero downtime deployments |
+| DevSecOps Hardening Lab | Security testing and infrastructure defense |
+| Lightweight Platform Engineering Mini-PaaS | Internal deployment platform for applications |
+
+---
+
+# 🏢 Internship
+
+**DevOps Intern — Ionidea**  
 Jan 2026 – Present
 
-Working on real-world DevOps tasks including Linux-based deployment workflows and infrastructure operations.
+Key Work
+
+- Completed end-to-end deployment on Linux-based infrastructure
+- Implemented DevOps deployment workflows
+- Worked with real-world DevOps task tracking systems
+
+More details  
+➡️ docs/internship.md
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ketanayatti&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanayatti&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+GitHub  
+https://github.com/ketanayatti
+
+LinkedIn  
+https://www.linkedin.com/in/ketanayatti/
+
+Portfolio Website  
+https://ketanayatti.netlify.app/
+
+---
+
+# 🎯 DevOps Engineering Focus
+
+My goal is to become a **DevOps / Platform Engineer capable of designing scalable infrastructure, automated CI/CD pipelines, and resilient deployment systems**.
+
+This portfolio will continue expanding with:
+
+- advanced infrastructure automation
+- DevSecOps implementations
+- platform engineering systems
+- cloud-native deployments
