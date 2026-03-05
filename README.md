@@ -11,43 +11,90 @@ Building scalable infrastructure, automated deployments, and production-ready De
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Portfolio Navigation
 
-Learn more about my background, experience, and DevOps journey.
+This repository acts as a **central hub for my DevOps engineering work**.
 
-➡️ [Read About Me](docs/about-me.md)
-
----
-
-# 🚀 DevOps Projects
-
-Explore the DevOps platforms and infrastructure systems I have built.
-
-➡️ [View Projects](docs/projects.md)
+| Section | Description |
+|------|------|
+| [About Me](docs/about-me.md) | Background, goals, and DevOps journey |
+| [Projects](docs/projects.md) | DevOps platforms and infrastructure systems |
+| [Internship Experience](docs/internship.md) | DevOps internship at Ionidea |
 
 ---
 
-# ⚙️ Technology Stack
+# 🚀 Featured DevOps Projects
 
-Tools and technologies I use to design and operate DevOps systems.
+## Communiatec  
+DevOps-Driven Full Stack Communication Platform with Automated CI/CD
 
-➡️ [View Tech Stack](docs/tech-stack.md)
+Repository  
+https://github.com/ketanayatti/communiatec-devops-platform
+
+Highlights
+
+- Jenkins CI/CD pipeline
+- Docker container deployment
+- GitHub source integration
+- Docker Hub container registry
+- Linux production server deployment
 
 ---
 
-# 🏢 Internship Experience
+## AI Mock Interview Platform  
+AI Application with DevOps CI/CD Pipeline
 
-My DevOps internship experience at Ionidea.
+Repository  
+https://github.com/ketanayatti/ai-mock-interview
 
-➡️ [View Internship Details](docs/internship.md)
+Highlights
+
+- Multi-branch CI/CD pipeline
+- Docker containerization
+- Docker Compose orchestration
+- Apache web server configuration
+- MongoDB container database
+- Automated staging and production deployments
 
 ---
 
-# 🧭 DevOps Learning Roadmap
+# 🧠 Upcoming DevOps Projects
 
-My ongoing learning roadmap toward becoming a professional DevOps engineer.
+These projects are currently under development and will demonstrate advanced DevOps concepts.
 
-➡️ [View Roadmap](docs/roadmap.md)
+| Project | Focus |
+|------|------|
+| Autonomous Self-Healing Deployment Platform | Automated failure recovery & zero downtime deployments |
+| DevSecOps Hardening Lab | Security testing and infrastructure defense |
+| Lightweight Platform Engineering Mini-PaaS | Internal deployment platform for applications |
+
+---
+
+# 🏢 Internship
+
+**DevOps Intern — Ionidea**  
+Jan 2026 – Present
+
+Key Work
+
+- Completed end-to-end deployment on Linux-based infrastructure
+- Implemented DevOps deployment workflows
+- Worked with real-world DevOps task tracking systems
+
+More details  
+➡️ docs/internship.md
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ketanayatti&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanayatti&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -64,12 +111,13 @@ https://ketanayatti.netlify.app/
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 DevOps Engineering Focus
 
-<p align="center">
+My goal is to become a **DevOps / Platform Engineer capable of designing scalable infrastructure, automated CI/CD pipelines, and resilient deployment systems**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ketanayatti&show_icons=true&theme=tokyonight"/>
+This portfolio will continue expanding with:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanayatti&theme=tokyonight"/>
-
-</p>
+- advanced infrastructure automation
+- DevSecOps implementations
+- platform engineering systems
+- cloud-native deployments
