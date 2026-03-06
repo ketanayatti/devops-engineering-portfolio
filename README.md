@@ -25,6 +25,23 @@ This repository acts as a **central hub for my DevOps engineering work**.
 
 # 🚀 Featured DevOps Projects
 
+## Autonomous Self-Healing Deployment Platform  
+Zero-Downtime Deployment System with Automated Rollback
+
+Repository  
+https://github.com/ketanayatti/Autonomous-Self-Healing-Deployment-Platform
+
+Highlights
+
+- Blue-Green deployment strategy for zero-downtime releases
+- Automated health validation before production traffic switching
+- Self-healing rollback mechanism for deployment failures
+- NGINX reverse proxy traffic control
+- Docker-based containerized deployments
+- Linux automation scripts controlling deployment lifecycle
+
+---
+
 ## Communiatec  
 DevOps-Driven Full Stack Communication Platform with Automated CI/CD
 
@@ -64,7 +81,6 @@ These projects are currently under development and will demonstrate advanced Dev
 
 | Project | Focus |
 |------|------|
-| Autonomous Self-Healing Deployment Platform | Automated failure recovery & zero downtime deployments |
 | DevSecOps Hardening Lab | Security testing and infrastructure defense |
 | Lightweight Platform Engineering Mini-PaaS | Internal deployment platform for applications |
 
