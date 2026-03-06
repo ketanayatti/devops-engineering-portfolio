@@ -7,6 +7,31 @@ Each project focuses on implementing real-world DevOps practices such as CI/CD a
 
 # Featured Projects
 
+## Autonomous Self-Healing Deployment Platform  
+Zero-Downtime Deployment System with Blue-Green Strategy and Automated Rollback
+
+Repository  
+https://github.com/ketanayatti/Autonomous-Self-Healing-Deployment-Platform
+
+Overview
+
+The Autonomous Self-Healing Deployment Platform demonstrates how modern DevOps teams deploy applications safely while maintaining service availability.
+
+The system implements a Blue-Green deployment architecture where new versions of an application are deployed to a secondary environment and validated through automated health checks before production traffic is switched.
+
+A monitoring watchdog continuously checks service health and automatically rolls back deployments if failures are detected, ensuring system stability without manual intervention.
+
+Key Highlights
+
+- Blue-Green deployment strategy for zero-downtime releases
+- Automated deployment validation using application health checks
+- Self-healing rollback system triggered by failure detection
+- NGINX reverse proxy used for runtime traffic switching
+- Docker container-based application deployment
+- Linux automation scripts controlling deployment lifecycle
+
+---
+
 ## Communiatec  
 DevOps-Driven Full Stack Communication Platform with Automated CI/CD and Cloud Deployment
 
@@ -56,24 +81,6 @@ Key Highlights
 # Upcoming Advanced DevOps Projects
 
 These projects are currently under development and will demonstrate advanced DevOps and platform engineering concepts.
-
----
-
-## Autonomous Self-Healing Deployment Platform
-
-Repository  
-https://github.com/ketanayatti/Autonomous-Self-Healing-Deployment-Platform
-
-Overview
-
-A deployment platform designed to automatically detect failures and restore services without manual intervention.
-
-Planned Focus
-
-- Zero-downtime deployments
-- Automatic rollback mechanisms
-- Service health monitoring
-- Infrastructure resilience and self-healing systems
 
 ---
 
